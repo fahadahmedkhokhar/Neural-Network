@@ -2,7 +2,7 @@
 clear;
 clc;
 x=[1 1 0 0;1 0 1 0];
-t=[1 -1 -1 -1];
+t=[1 1 1 -1];
 w=[0 0];
 b=0;
 alpha=input('Enter Learning rate=');
